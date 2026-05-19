@@ -199,7 +199,7 @@ Módulo de gestión de usuarios y clientes.
 # 📂 Estructura del proyecto
 
 ```bash
-FAER/
+PlataformaRentaVehiculosyHabitaciones/
 │
 ├── rooms/                     # Gestión de habitaciones
 ├── vehicles/                  # Gestión de vehículos
@@ -263,7 +263,7 @@ FAER/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/FAER.git
+git clone https://github.com/isairey/PlataformaRentaVehiculosyHabitaciones.git
 ```
 
 ---
@@ -271,7 +271,7 @@ git clone https://github.com/isairey/FAER.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd FAER
+cd PlataformaRentaVehiculosyHabitaciones
 ```
 
 ---
