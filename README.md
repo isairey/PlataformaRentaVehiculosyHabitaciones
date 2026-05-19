@@ -2,7 +2,7 @@
 
 <img width="220" src="https://cdn-icons-png.flaticon.com/512/2972/2972185.png" />
 
-# 🏡 FAER – Rental & Accommodation Platform
+# 🏡 PlataformaRentaVehiculosyHabitaciones – Rental & Accommodation Platform
 
 ### Plataforma inteligente de renta de habitaciones y vehículos 🚀
 
@@ -337,27 +337,7 @@ http://127.0.0.1:8000
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Página principal
-![Home](https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1200)
-
-### 🛏️ Gestión de habitaciones
-![Rooms](https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200)
-
-### 🚗 Gestión de vehículos
-![Vehicles](https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=1200)
-
-### 📅 Sistema de reservas
-![Booking](https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1200)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
@@ -443,6 +423,6 @@ Proyecto open source bajo licencia MIT orientado al aprendizaje y desarrollo de 
 
 <div align="center">
 
-### 🏡 FAER — gestión inteligente de propiedades y vehículos 🚀
+### 🏡 PlataformaRentaVehiculosyHabitaciones — gestión inteligente de propiedades y vehículos 🚀
 
 </div>
